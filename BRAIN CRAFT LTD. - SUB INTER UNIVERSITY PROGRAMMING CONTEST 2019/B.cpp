@@ -1,3 +1,9 @@
+/**
+ * Author: Md. Rashedul Alam Anik
+ * Source: Gazi Mohaimin Iqbal
+ * 
+ */
+
 #include <bits/stdc++.h>
 
 using namespace std;

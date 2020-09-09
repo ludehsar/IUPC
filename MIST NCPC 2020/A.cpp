@@ -1,5 +1,8 @@
 ///   ***   ---   |||         In the name of ALLAH        |||   ---   ***   ///
-
+/**
+ * Author: Muhammad Shahriar Alam
+ * 
+ */
 
 
 #include<bits/stdc++.h>
